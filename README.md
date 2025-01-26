@@ -25,8 +25,17 @@ This project demonstrates Python programming concepts and file handling, and ser
 - Python 3.x installed on your system.
 ### Setup
 1. Clone the repository:
-   
-3. 
-4. 
+   https://github.com/ZamirLucky/contact-management-system-used-python.git
+2. make sure the contacts.csv file to place in the same directory as the script.
+
+## Technologies Used
+- Python (CLI-based application)
+- File handling for reading and writing CSV files
+
+## Future Improvements
+- Add GUI support for better usability.
+- save the contacts to database
+- Enhance search functionality.
+- Add filter functionality. 
 
 
