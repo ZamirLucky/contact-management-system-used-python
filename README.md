@@ -12,13 +12,13 @@ This project demonstrates Python programming concepts and file handling, and ser
 - **Delete Contacts:** Remove contacts by name after confirmation.
 
 ## Project Structure
--- **loadContacts(fileName):** Reads and loads contact data from a CSV file into a list.
--- **saveContacts(fileName):** Saves the current list of contacts back into a CSV file.
--- **showAllContacts():** Displays all stored contacts.
--- **addNewContact():** Prompts the user to input and add a new contact to the list.
--- **findContactsByName(name):** Searches for a contact by name and returns matches.
--- **deleteContactsByName(name):** Deletes a contact by name after user confirmation.
--- **mainCode():** The main menu-driven interface for interacting with the system.
+- **loadContacts(fileName):** Reads and loads contact data from a CSV file into a list.
+- **saveContacts(fileName):** Saves the current list of contacts back into a CSV file.
+- **showAllContacts():** Displays all stored contacts.
+- **addNewContact():** Prompts the user to input and add a new contact to the list.
+- **findContactsByName(name):** Searches for a contact by name and returns matches.
+- **deleteContactsByName(name):** Deletes a contact by name after user confirmation.
+- **mainCode():** The main menu-driven interface for interacting with the system.
 
 ## Getting Started
 ### Prerequisites
