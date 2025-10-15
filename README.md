@@ -9,10 +9,6 @@ A simple CLI app to manage contacts stored in a CSV file. You can load, view, ad
 - Delete contacts with confirmation
 - Save all changes to CSV on exit
 
-### Setup
-1. Clone the repository:
-   https://github.com/ZamirLucky/contact-management-system-used-python.git
-
 ## Tech Stack
 - Python (CLI-based application)
 - File handling for reading and writing CSV files
@@ -21,7 +17,11 @@ A simple CLI app to manage contacts stored in a CSV file. You can load, view, ad
 - Add GUI support for better usability.
 - save the contacts to the database
 - Enhance search functionality.
-- Add filter functionality. 
+- Add filter functionality.
+
+### Setup
+Clone https://github.com/ZamirLucky/contact-management-system-used-python.git
+
 
 ## Screenshoots
 ![image](https://github.com/user-attachments/assets/63da5975-3b04-47cc-9426-2bb1851b8d35)
